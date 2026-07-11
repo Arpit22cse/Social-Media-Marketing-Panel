@@ -7,7 +7,7 @@ const validate = require('./middelwares/validate')
 
 const app = express();
 const allowedOrigins = [
-  'https://smm-frontend-omega.vercel.app'
+  'https://social-media-marketing-panel.vercel.app'
 ]
 
 app.use(cors({

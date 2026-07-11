@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE_URL = '';
+const API_BASE_URL = 'https://social-media-marketing-panel.onrender.com';
 
 
 const handleResponse = async (response) => {
